@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fato_shadow_-_im_boss_here.mp3-ee1f08b12372306a8bf5e2c49c2049c1.mp3str"
+
+[deps]
+
+source_file="res://sounds/fato_shadow_-_im_boss_here.mp3"
+dest_files=[ "res://.import/fato_shadow_-_im_boss_here.mp3-ee1f08b12372306a8bf5e2c49c2049c1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
